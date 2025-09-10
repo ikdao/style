@@ -1,7 +1,7 @@
 export default function uiQ({
   inputId,
   containerId,
-  selector = '[searchable]',
+  selector = '[search]',
   getText,
   onSelect
 }) {
